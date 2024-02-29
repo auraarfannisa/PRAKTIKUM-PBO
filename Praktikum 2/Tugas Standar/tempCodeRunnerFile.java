@@ -1,0 +1,1 @@
+        // System.out.printf("g1(%.2f, %.2f)\n", titikAwal.getAbsis(), titikAkhir.getOrdinat());
